@@ -62,7 +62,7 @@ Final Script TSA 02.ipynb
    ```
 4. Run all cells in sequence
 
->  Make sure your dataset path matches the code in the notebook.
+>  Make sure the  dataset path matches the code in the notebook.
 ---
 ## 📈 Results
 

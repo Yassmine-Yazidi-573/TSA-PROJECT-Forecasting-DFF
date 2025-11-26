@@ -45,7 +45,6 @@ Final Script TSA 02.ipynb
  ┣ 📁 Project Presentation/      # (Contains Forecasts, plots, saved models)
  ┗ README.md
 ```
-
 ---
 
 ##  How to Run the Project
@@ -64,18 +63,13 @@ Final Script TSA 02.ipynb
 4. Run all cells in sequence
 
 >  Make sure your dataset path matches the code in the notebook.
-
 ---
-
 ## 📈 Results
 
 * Visualized historical patterns
 * Identified trend/seasonality
 * Built a forecasting model
 * Generated future predictions with confidence intervals
-
-(You can attach sample plots here.)
-
 ---
 
 ## 🔮 Future Improvements

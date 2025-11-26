@@ -11,17 +11,17 @@ Final Script TSA 02.ipynb
 
 ---
 
-## ✅ Key Features
+##  Key Features
 
-* ✅ Data loading 
-* ✅ Exploratory time series visualization
-* ✅ Trend & seasonality analysis
-* ✅ Stationarity testing (ADF / KPSS)
-* ✅ Differencing & transformations
-* ✅ ARIMA / SARIMA model building
-* ✅ Model selection using AIC / BIC
-* ✅ Forecasting future values
-* ✅ Confidence interval visualization
+*  Data loading 
+*  Exploratory time series visualization
+*  Trend & seasonality analysis
+*  Stationarity testing (ADF / KPSS)
+*  Differencing & transformations
+*  ARIMA / SARIMA model building
+*  Model selection using AIC / BIC
+*  Forecasting future values
+*  Confidence interval visualization
 
 ---
 
@@ -48,7 +48,7 @@ Final Script TSA 02.ipynb
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone or download the repository
 2. Install dependencies:
@@ -63,7 +63,7 @@ Final Script TSA 02.ipynb
    ```
 4. Run all cells in sequence
 
-> ✅ Make sure your dataset path matches the code in the notebook.
+>  Make sure your dataset path matches the code in the notebook.
 
 ---
 

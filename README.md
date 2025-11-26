@@ -6,7 +6,7 @@ This project performs a full Time Series Analysis (TSA) workflow using Python. I
 The main script/notebook used in this project is:
 
 ```
-Final Script TSA 02.ipynb
+Script TSA 02.ipynb
 ```
 
 ---

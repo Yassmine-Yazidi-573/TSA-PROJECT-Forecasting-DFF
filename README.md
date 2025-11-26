@@ -1,18 +1,4 @@
 # TSA-PROJECT-Forecasting
-Absolutely — I can build a clean, professional README for your project.
-
-Before I tailor it perfectly, just confirm one thing:
-
-✅ **Is this project a Time Series Analysis (TSA) script/notebook that includes steps like data loading, preprocessing, stationarity tests, ARIMA/SARIMA modeling, forecasting, and visualization?**
-
-If yes, I’ll customize the README based on that workflow.
-
----
-
-### ✅ In the meantime, here’s a solid draft you can use:
-
-# 📊 Time Series Analysis Project
-
 ## 📁 Project Overview
 
 This project performs a full Time Series Analysis (TSA) workflow using Python. It includes data preprocessing, exploratory analysis, model building, forecasting, and evaluation. The goal is to identify patterns in historical data and generate reliable future predictions.

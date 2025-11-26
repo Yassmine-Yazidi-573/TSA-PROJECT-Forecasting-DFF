@@ -70,11 +70,3 @@ Final Script TSA 02.ipynb
 * Identified trend/seasonality
 * Built a forecasting model
 * Generated future predictions with confidence intervals
----
-
-## 🔮 Future Improvements
-
-* Add model comparison (Prophet, LSTM, VAR, etc.)
-* Automate hyperparameter tuning
-* Deploy forecasting API or dashboard
-* Save model as a pickle file for reuse

@@ -1,7 +1,7 @@
 # TSA-PROJECT-Forecasting
 ## 📁 Project Overview
 
-This project performs a full Time Series Analysis (TSA) workflow using Python. It includes data preprocessing, exploratory analysis, model building, forecasting, and evaluation. The goal is to identify patterns in historical data and generate reliable future predictions.
+This project performs a full Time Series Analysis (TSA) workflow using Python. It includes exploratory analysis, model building, forecasting, and evaluation. The goal is to identify patterns in historical data and generate reliable future predictions.
 
 The main script/notebook used in this project is:
 

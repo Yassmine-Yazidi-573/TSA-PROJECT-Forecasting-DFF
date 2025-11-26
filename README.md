@@ -13,8 +13,7 @@ Final Script TSA 02.ipynb
 
 ## ✅ Key Features
 
-* ✅ Data loading & cleaning
-* ✅ Handling missing values
+* ✅ Data loading 
 * ✅ Exploratory time series visualization
 * ✅ Trend & seasonality analysis
 * ✅ Stationarity testing (ADF / KPSS)
@@ -34,7 +33,6 @@ Final Script TSA 02.ipynb
 * **Matplotlib**
 * **Statsmodels**
 * **pmdarima (auto_arima)**
-* **scikit-learn** (if applicable)
 
 ---
 
@@ -43,8 +41,8 @@ Final Script TSA 02.ipynb
 ```
 📦 Time Series Analysis Project
  ┣ 📓 Final Script TSA 02.ipynb
- ┣ 📁 data/          # (Raw or cleaned dataset)
- ┣ 📁 output/        # (Forecasts, plots, saved models)
+ ┣ 📁 data/ INVEST.csv       # (Raw dataset)
+ ┣ 📁 Project Presentation/      # (Contains Forecasts, plots, saved models)
  ┗ README.md
 ```
 
@@ -86,28 +84,3 @@ Final Script TSA 02.ipynb
 * Automate hyperparameter tuning
 * Deploy forecasting API or dashboard
 * Save model as a pickle file for reuse
-
----
-
-## 👤 Author
-
-Your Name
-(Email / LinkedIn / GitHub if desired)
-
----
-
-### ✅ Want a Fully Customized README?
-
-If you want:
-
-* Your dataset name included
-* Specific model details
-* Plots or results summarized
-* A polished “Project Motivation” section
-
-Just tell me:
-📌 What data you analyzed
-📌 What model you ended up using
-📌 Any key results
-
-I’ll tailor the README perfectly to your project.
